@@ -12,3 +12,5 @@ This is a **personalize version** of [OSS Curriculum](https://github.com/open-so
 
 [ MITx: 6.00.1x Introduction to Computer Science and Programming Using Python ](https://courses.edx.org/courses/course-v1:MITx+6.00.1x_9+2T2016/courseware/Week_0/edx_introduction/)
 
+[ Cs50 Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+
