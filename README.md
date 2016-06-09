@@ -16,9 +16,9 @@ This is a **personalize version** of [OSS Curriculum](https://github.com/open-so
 Courses | Duration | Effort | End | Status
 :-- | :--: | :--: | :--: | :--:
 [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)| 12 weeks | 10-20 hours/week | 12/30/2016
-[ MITx: 6.00.1x Introduction to Computer Science </br>and Programming Using Python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x_9+2T2016/courseware/Week_0/edx_introduction/) | 7 weeks | ? | 08/10/2016
-[Programming Abstractions](https://www.youtube.com/view_play_list?p=FE6E58F856038C69) | ? | ? | ?
-
+[ MITx: 6.00.1x Introduction to Computer Science </br>and Programming Using Python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x_9+2T2016/courseware/Week_0/edx_introduction/) | 7 weeks | ? | 08/10/2016|
+[Programming Abstractions](https://www.youtube.com/view_play_list?p=FE6E58F856038C69) | ? | ? | self-pace|
+[Programming Methodology](https://www.youtube.com/playlist?list=PL84A56BC7F4A1F852) | ? | ? | self-pace|
 ## Design Pattern 
 Courses | Duration | Effort | End | Status
 :-- | :--: | :--: | :--: | :--:
