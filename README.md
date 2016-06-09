@@ -31,33 +31,35 @@ Courses | Duration | Effort | End | Status
 [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)| 7 weeks | 5-7 hours/week|?
 [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java) | 6 weeks | 4-6 hours/week |?
 
+### Algorithms
+
+Courses | Duration | Effort
+:-- | :--: | :--:
+[Algorithms, Part I](https://www.coursera.org/course/algs4partI)| 6 weeks | 6-12 hours/week
+[Algorithms, Part II](https://www.coursera.org/course/algs4partII)| 6 weeks |  6-12 hours/week
+[Introduction to Data Structures and Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/) | ? | ? | self-pace|
+[Introduction to Algorithms](https://www.youtube.com/playlist?list=PLE621E25B3BF8B9D1) | ? | ? | self-pace|
+
 ## Hardware
 Courses | Duration | Effort | End | Status
 :-- | :--: | :--: | :--: | :--:
 [Computer Architecture](https://www.coursera.org/course/comparch)| - | 5-8 hours/week
 [Computer Networks](https://www.coursera.org/course/comnetworks)| - | 4–12 hours/week
-[Introduction to Data Communications](https://www.youtube.com/playlist?list=PLvifRcqOOwF8u4iC7hFTMVC_WD6SEpnkx)
-[Fundamentals of Computer Networking](https://www.youtube.com/channel/UCb1OiccPJ0wbMZMOleCvhWQ/videos?view=0&sort=da&flow=list)
+[Introduction to Data Communications](https://www.youtube.com/playlist?list=PLvifRcqOOwF8u4iC7hFTMVC_WD6SEpnkx) | ? | ? | self-pace|
+[Fundamentals of Computer Networking](https://www.youtube.com/channel/UCb1OiccPJ0wbMZMOleCvhWQ/videos?view=0&sort=da&flow=list)| ? | ? | self-pace|
+
 ## Database
 Courses | Duration | Effort
 :-- | :--: | :--:
 [Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)| 12 weeks | 8-12 hours/week
 
-## Programming
+## Theory of Programming
 Courses | Duration | Effort | End | Status
 :-- | :--: | :--: | :--: | :--:
 [Programming Paradigms](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)| ? | ? | self-pace|
 [Operating Systems and Systems Programming](https://www.youtube.com/watch?v=XgQo4JkN4Bw&list=PL62A66DDD3B3CC0B7)| ? | ? | self-pace|
-
-## Language
-Courses | Duration | Effort | End | Status
-:-- | :--: | :--: | :--: | :--:
 [Compilers](https://www.coursera.org/course/compilers)| 9 weeks | 6-8 hours/week
 [Natural Language Processing](https://www.coursera.org/course/nlangp)| 10 weeks | 8-10 hours/week
-
-## Theory
-Courses | Duration | Effort | End | Status
-:-- | :--: | :--: | :--: | :--:
 [Automata](https://www.coursera.org/course/automata)| 6 weeks | 8-10 hours/week| ? | ? | ?|
 [Machine Learning](https://www.coursera.org/learn/machine-learning)| 11 weeks | 4-6 hours/week
 [Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x#!)| 12 weeks | 15 hours/week
