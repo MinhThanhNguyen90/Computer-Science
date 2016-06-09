@@ -23,9 +23,9 @@ Courses | Duration | Effort | Course End
 
 Courses | Duration | Effort | Course End
 :-- | :--: | :--: | :--:
-[How to Code: Systematic Program Design - Part 1](https://www.edx.org/course/how-code-systematic-program-design-part-ubcx-spd1x)| 5 weeks | 8-12 hours/week | self-pace
-[How to Code: Systematic Program Design - Part 2](https://www.edx.org/course/how-code-systematic-program-design-part-ubcx-spd2x)| 5 weeks | 8-12 hours/week | self-pace
-[How to Code: Systematic Program Design - Part 3](https://www.edx.org/course/how-code-systematic-program-design-part-ubcx-spd3x)| 5 weeks | 8-12 hours/week | self-pace
+[How to Code: Systematic Program Design - Part 1] (https://www.edx.org/course/how-code-systematic-program-design-part-ubcx-spd1x)| 5 weeks | 8-12 hours/week | self-pace
+[How to Code: Systematic Program Design - Part 2] (https://www.edx.org/course/how-code-systematic-program-design-part-ubcx-spd2x)| 5 weeks | 8-12 hours/week | self-pace
+[How to Code: Systematic Program Design - Part 3] (https://www.edx.org/course/how-code-systematic-program-design-part-ubcx-spd3x)| 5 weeks | 8-12 hours/week | self-pace
 [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)| 8 weeks | 6 hours/week | self-pace
 [Heterogeneous Parallel Programming](https://www.coursera.org/course/hetero)| 11 weeks | 8-10 hours/week |?
 [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)| 7 weeks | 5-7 hours/week|?
