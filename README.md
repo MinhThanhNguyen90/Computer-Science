@@ -21,6 +21,8 @@ Courses | Duration | Effort | Course End
 
 ## Design Pattern
 
+Courses | Duration | Effort | Course End
+:-- | :--: | :--: | :--:
 [How to Code: Systematic Program Design - Part 1](https://www.edx.org/course/how-code-systematic-program-design-part-ubcx-spd1x)| 5 weeks | 8-12 hours/week | self-pace
 [How to Code: Systematic Program Design - Part 2](https://www.edx.org/course/how-code-systematic-program-design-part-ubcx-spd2x)| 5 weeks | 8-12 hours/week | self-pace
 [How to Code: Systematic Program Design - Part 3](https://www.edx.org/course/how-code-systematic-program-design-part-ubcx-spd3x)| 5 weeks | 8-12 hours/week | self-pace
