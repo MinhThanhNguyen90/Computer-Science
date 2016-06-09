@@ -19,6 +19,7 @@ Courses | Duration | Effort | End | Status
 [ MITx: 6.00.1x Introduction to Computer Science </br>and Programming Using Python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x_9+2T2016/courseware/Week_0/edx_introduction/) | 7 weeks | ? | 08/10/2016|
 [Programming Abstractions](https://www.youtube.com/view_play_list?p=FE6E58F856038C69) | ? | ? | self-pace|
 [Programming Methodology](https://www.youtube.com/playlist?list=PL84A56BC7F4A1F852) | ? | ? | self-pace|
+
 ## Design Pattern 
 Courses | Duration | Effort | End | Status
 :-- | :--: | :--: | :--: | :--:
@@ -30,13 +31,23 @@ Courses | Duration | Effort | End | Status
 [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)| 7 weeks | 5-7 hours/week|?
 [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java) | 6 weeks | 4-6 hours/week |?
 
+## Hardware
+Courses | Duration | Effort | End | Status
+:-- | :--: | :--: | :--: | :--:
+[Computer Architecture](https://www.coursera.org/course/comparch)| - | 5-8 hours/week
+[Computer Networks](https://www.coursera.org/course/comnetworks)| - | 4–12 hours/week
+[Introduction to Data Communications](https://www.youtube.com/playlist?list=PLvifRcqOOwF8u4iC7hFTMVC_WD6SEpnkx)
+[Fundamentals of Computer Networking](https://www.youtube.com/channel/UCb1OiccPJ0wbMZMOleCvhWQ/videos?view=0&sort=da&flow=list)
+## Database
+Courses | Duration | Effort
+:-- | :--: | :--:
+[Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)| 12 weeks | 8-12 hours/week
+
 ## Programming
 Courses | Duration | Effort | End | Status
 :-- | :--: | :--: | :--: | :--:
-[Programming Paradigms](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)
-[Operating Systems and Systems Programming](https://www.youtube.com/watch?v=XgQo4JkN4Bw&list=PL62A66DDD3B3CC0B7)
-[Automata](https://www.coursera.org/course/automata)| 6 weeks | 8-10 hours/week
-
+[Programming Paradigms](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)| ? | ? | self-pace|
+[Operating Systems and Systems Programming](https://www.youtube.com/watch?v=XgQo4JkN4Bw&list=PL62A66DDD3B3CC0B7)| ? | ? | self-pace|
 
 ## Language
 Courses | Duration | Effort | End | Status
@@ -44,14 +55,16 @@ Courses | Duration | Effort | End | Status
 [Compilers](https://www.coursera.org/course/compilers)| 9 weeks | 6-8 hours/week
 [Natural Language Processing](https://www.coursera.org/course/nlangp)| 10 weeks | 8-10 hours/week
 
-## Hardware
+## Theory
 Courses | Duration | Effort | End | Status
 :-- | :--: | :--: | :--: | :--:
-[Computer Architecture](https://www.coursera.org/course/comparch)| - | 5-8 hours/week
-[Computer Networks](https://www.coursera.org/course/comnetworks)| - | 4–12 hours/week
+[Automata](https://www.coursera.org/course/automata)| 6 weeks | 8-10 hours/week| ? | ? | ?|
+[Machine Learning](https://www.coursera.org/learn/machine-learning)| 11 weeks | 4-6 hours/week
+[Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x#!)| 12 weeks | 15 hours/week
 
-## Database
-
+### Security
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)| 12 weeks | 8-12 hours/week
+[Cryptography I](https://www.coursera.org/course/crypto)| 6 weeks | 5-7 hours/week
+[Cryptography II](https://www.coursera.org/course/crypto2)| 6 weeks | 6-8 hours/week
+[Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security) | 8 weeks | 3 hours/week
