@@ -8,7 +8,7 @@
 
 ## About
 
-This is a **personalize version** of [OSS Curriculum](https://github.com/open-source-society/computer-science), serve as a meta-file tracking my progress and plan.
+This is a **personalize version** of [OSS Curriculum](https://github.com/open-source-society/computer-science),[agupieware] (http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html), [datasciencemasters](https://github.com/datasciencemasters/go), [thesimplelogic] (http://www.thesimplelogic.com/2012/09/24/you-say-you-want-an-education/) serve as a meta-file tracking my progress and plan.
 
 
 
